@@ -34,14 +34,14 @@ This project demonstrates flower species classification using the Iris dataset a
 ## 🧠 Model Architecture
 * Input Layer: 4 features
 * Sepal length
-Sepal width
-Petal length
-Petal width
-RBF Layer: 10 units, γ = 0.5
-Output Layer: 3 classes
-🌼 Setosa
-🌷 Versicolor
-🌺 Virginica
+* Sepal width
+* Petal length
+* Petal width
+* RBF Layer: 10 units, γ = 0.5
+* Output Layer: 3 classes
+  * 🌼 Setosa
+  * 🌷 Versicolor
+  * 🌺 Virginica
 📊 Performance Metrics
 🎯 Accuracy: 91-97%
 🛑 Early Stopping: Monitored validation loss
