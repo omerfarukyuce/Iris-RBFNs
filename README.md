@@ -42,18 +42,20 @@ This project demonstrates flower species classification using the Iris dataset a
   * 🌼 Setosa
   * 🌷 Versicolor
   * 🌺 Virginica
-📊 Performance Metrics
-🎯 Accuracy: 91-97%
-🛑 Early Stopping: Monitored validation loss
-📊 Batch Size: 4
-🔄 Maximum Epochs: 300
-📈 Visualizations Included
-📊 Feature distribution plots
-🔥 Correlation heatmap
-🖼 Pairplots
-📦 Box plots
-🔬 Technical Deep Dive
-🧩 RBF Layer Mechanics
+ 
+## 📊 Performance Metrics
+* 🎯 Accuracy: 91-97%
+* 🛑 Early Stopping: Monitored validation loss
+* 📊 Batch Size: 4
+* 🔄 Maximum Epochs: 300
+
+## 📈 Visualizations Included
+* 📊 Feature distribution plots
+* 🔥 Correlation heatmap
+* 🖼 Pairplots
+* 📦 Box plots
+* 🔬 Technical Deep Dive
+* 🧩 RBF Layer Mechanics
 The Radial Basis Function (RBF) layer processes input data using radial-based activation functions:
 
 📍 Centered units
