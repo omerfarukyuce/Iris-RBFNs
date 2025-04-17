@@ -29,3 +29,43 @@ This project demonstrates flower species classification using the Iris dataset a
 - 📈 Scikit-learn
 - 📊 Matplotlib
 - 🎨 Seaborn
+
+
+## 🧠 Model Architecture
+* Input Layer: 4 features
+* Sepal length
+Sepal width
+Petal length
+Petal width
+RBF Layer: 10 units, γ = 0.5
+Output Layer: 3 classes
+🌼 Setosa
+🌷 Versicolor
+🌺 Virginica
+📊 Performance Metrics
+🎯 Accuracy: 91-97%
+🛑 Early Stopping: Monitored validation loss
+📊 Batch Size: 4
+🔄 Maximum Epochs: 300
+📈 Visualizations Included
+📊 Feature distribution plots
+🔥 Correlation heatmap
+🖼 Pairplots
+📦 Box plots
+🔬 Technical Deep Dive
+🧩 RBF Layer Mechanics
+The Radial Basis Function (RBF) layer processes input data using radial-based activation functions:
+
+📍 Centered units
+🌈 Gaussian radial basis activation
+🔬 Dynamically learnable center points
+🧹 Data Preprocessing Techniques
+📏 Feature scaling with StandardScaler
+🏷 Label encoding with LabelBinarizer
+🔀 Train-test data splitting
+🤝 Contributing
+🍴 Fork the repository
+🌿 Create a feature branch
+🔨 Commit your changes
+🚀 Push to the branch
+📬 Open a Pull Request
