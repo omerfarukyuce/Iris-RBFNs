@@ -56,18 +56,14 @@ This project demonstrates flower species classification using the Iris dataset a
 * 📦 Box plots
 * 🔬 Technical Deep Dive
 * 🧩 RBF Layer Mechanics
-The Radial Basis Function (RBF) layer processes input data using radial-based activation functions:
 
-📍 Centered units
-🌈 Gaussian radial basis activation
-🔬 Dynamically learnable center points
-🧹 Data Preprocessing Techniques
-📏 Feature scaling with StandardScaler
-🏷 Label encoding with LabelBinarizer
-🔀 Train-test data splitting
-🤝 Contributing
-🍴 Fork the repository
-🌿 Create a feature branch
-🔨 Commit your changes
-🚀 Push to the branch
-📬 Open a Pull Request
+
+### The Radial Basis Function (RBF) layer processes input data using radial-based activation functions:
+* 📍 Centered units
+* 🌈 Gaussian radial basis activation
+* 🔬 Dynamically learnable center points
+### 🧹 Data Preprocessing Techniques
+* 📏 Feature scaling with StandardScaler
+* 🏷 Label encoding with LabelBinarizer
+* 🔀 Train-test data splitting
+
