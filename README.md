@@ -67,3 +67,11 @@ This project demonstrates flower species classification using the Iris dataset a
 * 🏷 Label encoding with LabelBinarizer
 * 🔀 Train-test data splitting
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔍 Code And Kaggle Link
+Project: [iris-rbfn-prediction-and-eda.ipynb](https://github.com/omerfarukyuce/Iris-RBFNs/blob/main/iris-rbfn-prediction-and-eda.ipynb)
+
+Kaggle: [🪻Iris RBFN Prediction And EDA🌷](https://www.kaggle.com/code/merfarukyce/iris-rbfn-prediction-and-eda)
